@@ -1,0 +1,54 @@
+INSERT INTO productos VALUES(
+	NULL,
+    'ratón',
+    'ratón de ordenador',
+    '15.50',
+    'fisico',
+    '0.1',
+    'raton.jpg'
+);
+INSERT INTO productos VALUES(
+	NULL,
+    'Teclado',
+    'TEclado de ordenador',
+    '20.50',
+    'fisico',
+    '0.2',
+    'teclado.jpg'
+);
+INSERT INTO productos VALUES(
+	NULL,
+    'Monitor',
+    'Monitor de ordenador',
+    '200.50',
+    'fisico',
+    '2',
+    'monitor.jpg'
+);
+INSERT INTO productos VALUES(
+	NULL,
+    'curso',
+    'curso de sql paso a paso',
+    '200',
+    'virtual',
+    '0',
+    'cursosql.jpg'
+);
+INSERT INTO productos VALUES(
+	NULL,
+    'curso',
+    'curso de php',
+    '300',
+    'virtual',
+    '0',
+    'cursophp.jpg'
+);
+INSERT INTO productos VALUES(
+	NULL,
+    'curso',
+    'curso de python',
+    '400',
+    'virtual',
+    '0',
+    'cursophyton.jpg'
+);

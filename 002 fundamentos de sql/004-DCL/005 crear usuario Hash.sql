@@ -1,0 +1,5 @@
+CREATE USER 
+'jaime3'@'localhost' 
+IDENTIFIED VIA 
+mysql_native_password 
+USING '*4707681857C490BFB0B727657CB636E7D3C41E28';
